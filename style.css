@@ -166,6 +166,10 @@ body{
     .Section1{
         padding: 0 1.5em;
     }
+    .Section1-BG{
+        width: 100%;
+        height: 100%;
+    }
    .Section2{
        padding: 0 1.5em 2em;
    }
